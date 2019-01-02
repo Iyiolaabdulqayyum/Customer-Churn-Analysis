@@ -7,4 +7,4 @@ Customer Churn Analysis
 
 ## How to run
 
-At the moment, this can be run using either jupyter notebook or atom by running in a line-by-line pattern.
+At the moment, this can be run using either jupyter notebook or atom or RStudio or any such IDE by running in a line-by-line pattern.
